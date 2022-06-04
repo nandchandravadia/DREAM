@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /links
+permalink: /links/
+published: true
 ---
 
 ## Helpful Books
