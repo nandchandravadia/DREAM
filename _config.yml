@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Nand Chandravadia
-description: A Neuromorphic Memory Model | Columbia University | DREAM Project 2022
+title: [Nand Chandravadia](https://nandchandravadia.github.io/DREAM/)
+description: A Neuromorphic Memory Model | DREAM Project 2022
 
 baseurl: /DREAM #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -17,9 +17,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-github: "#"
+twitter: "notnandgate"
+linkedin: "nand-chandravadia-7660b81b6"
+github: "nandchandravadia"
 
 highlighter: rouge
 markdown: kramdown
