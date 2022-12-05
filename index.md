@@ -29,11 +29,3 @@ their technological applications.
 ## About My Project
 
 How can we endow artificial neural networks with the capacity for life-long (i.e., continual) learning? Recently, algorithmic insights into the olfactory (neural) circuit of the \textit{Drosophila Melanogaster} have been discovered that endows it with the ability to acquire novel information, while preserving old memories. In this work, we leverage these algorithmic insights, notably sparse coding via a random projection, a $k$-winner-take-all computation, (partial) synaptic freezing, and associative learning, to build an artificial system with the ability of continual learning. 
-
-
-<figure>
-<img src="assets/images/drosophila_connectome.jpg" alt="Trulli" style="width:100%">
-<figcaption align = "center"><b>Full Drosophila Connectome (source: [The connectome of an insect brain
-](https://www.biorxiv.org/content/10.1101/2022.11.28.516756v1)</b></figcaption>
-</figure>
-
