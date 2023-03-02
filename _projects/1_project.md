@@ -5,7 +5,7 @@ title: A Systems Neuroscience Approach to Continual Learning
 
 
 <p align="center">
-  <img width="460" height="410" src="https://nandchandravadia.github.io/DREAM/assets/images/profile.png/neural.png">
+  <img width="460" height="410" src="https://nandchandravadia.github.io/DREAM/assets/images/neural.png">
 </p>
 
 
